@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+.contactinfo {
+color:dodgerblue;
+}
+
+.poem:hover {
+    font-style: italic;
+    color:darkslategray;
+}
+
+.headingbanner {
+
+    text-shadow: 3px 3px #ff0000;
+}
+
+.topleftheader {
+    text-shadow: 1px 1px blueviolet;
+}
+
+.messageofhope {
+    border: 10px solid blueviolet;
+}
